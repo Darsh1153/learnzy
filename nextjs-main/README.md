@@ -1,3 +1,3 @@
-<h1 align="center" id="title">Music School Website</h1>
+<h1 align="center" id="title">Learnzy</h1>
 
-Music School website: https://music-school-thepratikguptaas-projects.vercel.app/
+Lernzy: https://learnzy-xpw6.vercel.app/
